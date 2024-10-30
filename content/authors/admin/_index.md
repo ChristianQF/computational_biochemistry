@@ -3,7 +3,7 @@
 title: Grupo de Investigación en bioquímica comptacional
 
 # Name pronunciation (optional)
-name_pronunciation: Christian Solis Calero
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Christian
