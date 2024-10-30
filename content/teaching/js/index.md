@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Learn Pharmaceutical Chemistry
+summary: Pharmaceutical Chemistry lessons at undergraduate program!
+date: 2024-08-15
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Pharmaceutical Chemistry
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
