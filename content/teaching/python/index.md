@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Learn Biological Complex Systems
+summary: Easily learn Biological Complex Systems in undergraduate level!
+date: 2024-8-15
 type: docs
 math: false
 tags:
-  - Python
+  - Complex Systems
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
