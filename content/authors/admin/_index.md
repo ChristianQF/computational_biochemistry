@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Grupo de Investigación en 
-bioquímica computacional
+title: Grupo de Investigación en bioquímica computacional
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -184,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Computational Biochemistry Research Group at UNMSM is dedicated to understanding biological processes at the molecular level through computational simulation s and analysis. Our research spans a wide range of topics, including:Protein Structure and Dynamics, Predicting protein structures from amino acid sequences, Enzyme Kinetics and Mechanism, Drug Discovery and Design, using Molecular Dynamics Simulations and Quantum Mechanics/Molecular Mechanics (QM/MM) Methods.
