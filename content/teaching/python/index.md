@@ -1,5 +1,5 @@
 ---
-title: Learn Biological Complex Systems
+title: Learn Complex Systems
 summary: Easily learn Biological Complex Systems in undergraduate level!
 date: 2024-8-15
 type: docs
