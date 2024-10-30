@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Grupo de Investigación en bioquímica computacional
+title: Grupo de Investigación en <br> bioquímica computacional
 
 # Name pronunciation (optional)
 name_pronunciation: 
