@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Taller de programación
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Talleres de bioinformática 2024
+event_url: https://www.unmsm.edu.pe
 
 location: Hugo Blox Builder HQ
 address:
