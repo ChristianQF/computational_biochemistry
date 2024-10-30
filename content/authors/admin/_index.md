@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Grupo de Investigación en bioquímica comptacional
+title: Grupo de Investigación en 
+bioquímica computacional
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: RENACYT Research Group
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
